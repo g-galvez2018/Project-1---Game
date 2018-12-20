@@ -1,7 +1,7 @@
 //ship's bullet
-const shipBulletSrc = "../Images/bullet.png"
+const shipBulletSrc = "Images/bullet.png"
 //enemy's bullet
-const enemyBulletSrc = "../Images/enemy-bullet.png"
+const enemyBulletSrc = "Images/enemy-bullet.png"
 
 function Bullet(src, startx, starty, speed){
 	this.img = new Image();
