@@ -1,4 +1,4 @@
-const src = "../Images/enemy.png"
+const src = "Images/enemy.png"
 let dir = 1;          //Controls direction of enemy (go left or right)
 let speed = .1        //Controls how fast enemies move on x axis
 let enemies = [];     //Initiates enemies array
