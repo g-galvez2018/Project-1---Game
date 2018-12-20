@@ -1,5 +1,5 @@
 //Ship Image
-const shipSrc = "../Images/spaceship.png";
+const shipSrc = "Images/spaceship.png";
 
 function Ship(startX, startY){
 	this.img = new Image();
