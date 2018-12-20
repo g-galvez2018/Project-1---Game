@@ -1,4 +1,4 @@
-  const bground = "../Images/bgGame.png";
+  const bground = "Images/bgGame.png";
   let bgX = 0;
   let bgY = 0;
   let bg1X = 0;
